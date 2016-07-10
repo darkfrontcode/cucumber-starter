@@ -17,6 +17,7 @@ class World {
     getUrl(){
         return this.browser.getCurrentUrl()
     }
+
 }
 
 module.exports = function() {
